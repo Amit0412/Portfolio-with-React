@@ -1,5 +1,5 @@
 # Portfolio website
-  It a resposive personal portfolio website buit using React.js
+  It a resposive personal portfolio website buit using React.js, created for education and learning.
   
 ## How to develop it
 - Clone on your local machine by using `clone repo-remote`
