@@ -12,4 +12,4 @@
 
 ## UI
 ### Mobile, IPad and Desktop
-<img src="https://github.com/DwinaTech/public-images/blob/main/React-portfolio-2.jpg?raw=true" alt="website-image" />
+<img src="https://github.com/DwinaTech/public-images/blob/main/thumbnail/React-portfolio-2.jpg?raw=true" alt="website-image" />
